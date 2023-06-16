@@ -1,0 +1,28 @@
+Imóveis:
+
+Casa residencial - Preço: R$ 500.000 - Retorno de aluguel de 5% ao ano.
+Apartamento para aluguel de temporada - Preço: R$ 300.000 - Retorno de aluguel de 8% ao ano.
+Terreno para desenvolvimento imobiliário - Preço: R$ 200.000 - Retorno de 10% ao ano com a venda futura.
+Prédio comercial - Preço: R$ 2.000.000 - Retorno de aluguel de 6% ao ano.
+Imóvel residencial em área de valorização - Preço: R$ 400.000 - Retorno de valorização de 7% ao ano.
+Commodities:
+
+Barril de petróleo - Preço: US$ 70 - Retorno de 10% no último ano.
+Onça de ouro - Preço: US$ 1.800 - Retorno de 5% no último ano.
+Tonelada de trigo - Preço: US$ 200 - Retorno de 8% no último ano.
+Libra esterlina - Preço: US$ 1,40 - Retorno de 6% no último ano em relação ao dólar.
+Café - Preço: US$ 2,50 por libra - Retorno de 12% no último ano.
+Criptomoedas:
+
+Bitcoin - Preço: US$ 40.000 - Retorno de 200% no último ano.
+Ethereum - Preço: US$ 2.500 - Retorno de 150% no último ano.
+Binance Coin - Preço: US$ 400 - Retorno de 250% no último ano.
+Cardano - Preço: US$ 1,50 - Retorno de 300% no último ano.
+Ripple - Preço: US$ 0,80 - Retorno de 100% no último ano.
+Investimento em startups:
+
+Startup A - Preço da participação: R$ 50.000 - Retorno potencial de 5x o investimento em 5 anos.
+Startup B - Preço da participação: R$ 100.000 - Retorno potencial de 10x o investimento em 7 anos.
+Startup C - Preço da participação: R$ 200.000 - Retorno potencial de 20x o investimento em 10 anos.
+Startup D - Preço da participação: R$ 150.000 - Retorno potencial de 15x o investimento em 8 anos.
+Startup E - Preço da participação: R$ 75.000 - Retorno potencial de 7x o investimento em 6 anos.
